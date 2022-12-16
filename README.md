@@ -6,3 +6,4 @@ For High School Students.
 4. IB AA SL
 5. CAPS NSC MATRIC
 6. AS LEVEL STAT 1
+7. EDEXCEL STAT 1
